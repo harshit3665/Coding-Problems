@@ -17,7 +17,8 @@ public class Count_the_Number_of_Special_Characters_I {
         return count;
     }
     public static void main(String[] args) {
-        String s = "aaAbcBC";
+        Scanner sc=new Scanner(System.in);
+        String s = sc.nextInt();
         System.out.println(count(s));
     }
 }

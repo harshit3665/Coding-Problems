@@ -1,7 +1,7 @@
 import javax.sound.midi.SysexMessage;
 import java.util.Scanner;
 
-public class MinmaxJump {
+public class Jump_Game_VII {
 
     public static boolean canReach(String s, int minJump, int maxJump) {
 
