@@ -237,20 +237,4 @@ For storing the LPS array.
 
 ---
 
-# Key Concepts
 
-- Prefix Function
-- KMP Algorithm
-- Pattern Matching
-- String Processing
-
----
-
-# Tags
-
-```text
-String
-KMP
-Prefix Function
-Hard
-```
